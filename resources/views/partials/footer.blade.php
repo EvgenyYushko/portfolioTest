@@ -5,7 +5,7 @@
             <div class="col-sm-12">
 
                 <ul class="social-links">
-                    <li><a href="https://telegram.me/kirodrow" class="wow fadeInUp"><i class="fa fa-telegram"></i></a></li>
+                    <li><a href="https://telegram.me/EvgenyYushko" class="wow fadeInUp"><i class="fa fa-telegram"></i></a></li>
                     <li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-telegram"></i></a></li>
                     <li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-google-plus"></i></a></li>
                     <li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".4s"><i class="fa fa-pinterest"></i></a></li>
